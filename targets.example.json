@@ -1,0 +1,8 @@
+[
+  {
+    "name": "QS Knicks Cap (White/Royal)",
+    "url": "https://quartersnacksshop.com/products/quartersnacks-x-ny-knicks-x-47-brand-cap-white-royal",
+    "strategy": "shopify-js",
+    "notify": ["ntfy:CHANGE-ME-to-a-random-private-topic"]
+  }
+]

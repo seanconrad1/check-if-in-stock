@@ -1,0 +1,7 @@
+.env
+.notified
+.state/
+# Local config holds your private ntfy topic(s); commit targets.example.json instead.
+targets.json
+/tmp/ntfy_resp.json
+/tmp/ntfy_test_resp.json
